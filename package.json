@@ -1,0 +1,32 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arveymenon/super-dynamic-form.git"
+  },
+  "keywords": [
+    "super-dynamic-form"
+  ],
+  "author": "ARULVINAYAK MENON (RV MENON)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arveymenon/super-dynamic-form/issues"
+  },
+  "homepage": "https://github.com/Arveymenon/super-dynamic-form#readme",
+  "description": ""
+}
